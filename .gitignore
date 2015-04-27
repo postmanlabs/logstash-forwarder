@@ -26,4 +26,3 @@ logstash-forwarder
 *.crt
 *.key
 *.json
-!dist/*
